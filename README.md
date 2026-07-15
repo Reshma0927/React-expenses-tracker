@@ -4,6 +4,7 @@ A responsive Expense Tracker built using React that helps users manage their dai
 
 ## Live link:
 
+- **https://react-expenses-tracker-seven.vercel.app/**
 
 ## Features
 
@@ -19,12 +20,12 @@ A responsive Expense Tracker built using React that helps users manage their dai
 ## Preview 1: (On windows/Mac)
 
 
-
+![Expense Tracker Preview](preview1.png)
 
 
 ## Preview 2: (On smart phones)
 
-
+![Expense Tracker Preview](preview2.png)
 
 
 
@@ -83,3 +84,7 @@ npm run dev
 ## Author
 
 **Reshma Gandeti**
+
+## Connect with me :
+
+LinkedIn: https://www.linkedin.com/in/gandetireshma0927/
