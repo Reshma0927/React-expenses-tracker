@@ -50,7 +50,7 @@ const App = () => {
   return (
     <div className='containers'>
 
-      <h1>💰Expenses Tracker</h1>
+      <h1>Expenses Tracker</h1>
 
       <Summary
         budget={budget}
